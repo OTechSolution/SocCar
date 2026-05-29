@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35175200574",
+    "project_id": "scocar-bd398",
+    "storage_bucket": "scocar-bd398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35175200574:android:3c233ed0ad0be8820cde6f",
+        "android_client_info": {
+          "package_name": "com.example.scocar_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAjRRBSG4J45CNRfVPwdgCH11W17SJ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
